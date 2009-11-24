@@ -1,0 +1,8 @@
+# General Noise
+.*
+!.git*
+# OSX noise
+.DS_Store
+
+# db
+*.db
